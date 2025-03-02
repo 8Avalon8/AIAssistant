@@ -1,0 +1,10 @@
+﻿# requirements.txt
+Flask
+requests
+pytest
+lark-oapi
+python-jenkins
+openai
+dashscope
+mem0ai
+python-dotenv

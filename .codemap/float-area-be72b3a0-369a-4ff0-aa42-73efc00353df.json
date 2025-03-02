@@ -1,0 +1,262 @@
+{
+  "type": "float-area",
+  "_widgets": [
+    [
+      {
+        "widget": {
+          "constructionOptions": {
+            "factoryId": "code-editor-opener",
+            "options": {
+              "kind": "navigatable",
+              "uri": "file:///d%3A/AIAssistant/client.py",
+              "floatAreaId": "be72b3a0-369a-4ff0-aa42-73efc00353df"
+            }
+          },
+          "innerWidgetState": {
+            "cursorState": [
+              {
+                "inSelectionMode": false,
+                "selectionStart": {
+                  "lineNumber": 1,
+                  "column": 1
+                },
+                "position": {
+                  "lineNumber": 1,
+                  "column": 1
+                }
+              }
+            ],
+            "viewState": {
+              "scrollLeft": 0,
+              "firstPosition": {
+                "lineNumber": 1,
+                "column": 1
+              },
+              "firstPositionDeltaTop": 0
+            },
+            "contributionsState": {
+              "editor.contrib.folding": {
+                "lineCount": 10,
+                "provider": "indent",
+                "foldedImports": false
+              },
+              "editor.contrib.wordHighlighter": false
+            }
+          }
+        },
+        "width": 457.1996513663363,
+        "height": 450,
+        "spacing": 0
+      }
+    ],
+    [
+      {
+        "widget": {
+          "constructionOptions": {
+            "factoryId": "code-editor-opener",
+            "options": {
+              "kind": "navigatable",
+              "uri": "file:///d%3A/AIAssistant/app.py",
+              "floatAreaId": "be72b3a0-369a-4ff0-aa42-73efc00353df"
+            }
+          },
+          "innerWidgetState": {
+            "cursorState": [
+              {
+                "inSelectionMode": false,
+                "selectionStart": {
+                  "lineNumber": 28,
+                  "column": 12
+                },
+                "position": {
+                  "lineNumber": 28,
+                  "column": 12
+                }
+              }
+            ],
+            "viewState": {
+              "scrollLeft": 0,
+              "firstPosition": {
+                "lineNumber": 18,
+                "column": 77
+              },
+              "firstPositionDeltaTop": -1
+            },
+            "contributionsState": {
+              "editor.contrib.folding": {
+                "lineCount": 32,
+                "provider": "indent",
+                "foldedImports": false
+              },
+              "editor.contrib.wordHighlighter": true
+            }
+          }
+        },
+        "width": 600,
+        "height": 450,
+        "spacing": 44.400027099625916
+      },
+      {
+        "widget": {
+          "constructionOptions": {
+            "factoryId": "code-editor-opener",
+            "options": {
+              "kind": "navigatable",
+              "uri": "file:///d%3A/AIAssistant/venv/lib/site-packages/lark_oapi/ws/client.py",
+              "floatAreaId": "be72b3a0-369a-4ff0-aa42-73efc00353df"
+            }
+          },
+          "innerWidgetState": {
+            "cursorState": [
+              {
+                "inSelectionMode": false,
+                "selectionStart": {
+                  "lineNumber": 95,
+                  "column": 14
+                },
+                "position": {
+                  "lineNumber": 95,
+                  "column": 14
+                }
+              }
+            ],
+            "viewState": {
+              "scrollLeft": 16,
+              "firstPosition": {
+                "lineNumber": 66,
+                "column": 1
+              },
+              "firstPositionDeltaTop": 0
+            },
+            "contributionsState": {
+              "editor.contrib.folding": {
+                "lineCount": 364,
+                "provider": "indent",
+                "foldedImports": false
+              },
+              "editor.contrib.wordHighlighter": false
+            }
+          }
+        },
+        "width": 600,
+        "height": 450,
+        "spacing": 0
+      }
+    ],
+    [
+      {
+        "widget": {
+          "constructionOptions": {
+            "factoryId": "code-editor-opener",
+            "options": {
+              "kind": "navigatable",
+              "uri": "file:///d%3A/AIAssistant/venv/lib/site-packages/lark_oapi/__init__.py",
+              "floatAreaId": "be72b3a0-369a-4ff0-aa42-73efc00353df"
+            }
+          },
+          "innerWidgetState": {
+            "cursorState": [
+              {
+                "inSelectionMode": false,
+                "selectionStart": {
+                  "lineNumber": 1,
+                  "column": 1
+                },
+                "position": {
+                  "lineNumber": 1,
+                  "column": 1
+                }
+              }
+            ],
+            "viewState": {
+              "scrollLeft": 0,
+              "firstPosition": {
+                "lineNumber": 1,
+                "column": 1
+              },
+              "firstPositionDeltaTop": 0
+            },
+            "contributionsState": {
+              "editor.contrib.folding": {
+                "lineCount": 9,
+                "provider": "indent",
+                "foldedImports": false
+              },
+              "editor.contrib.wordHighlighter": false
+            }
+          }
+        },
+        "width": 600,
+        "height": 450,
+        "spacing": 0
+      }
+    ]
+  ],
+  "_widths": [
+    457.1996513663363,
+    600,
+    600
+  ],
+  "_modelData": {
+    "connections": [
+      {
+        "startWord": {
+          "uri": "/d:/AIAssistant/app.py",
+          "lineNumber": 28,
+          "startColumn": 19,
+          "endColumn": 25,
+          "word": "Client",
+          "x": 731.1875,
+          "y": 312.390625,
+          "hide": false,
+          "height": 19,
+          "width": 46
+        },
+        "endWord": {
+          "uri": "/d:/AIAssistant/venv/lib/site-packages/lark_oapi/ws/client.py",
+          "lineNumber": 85,
+          "startColumn": 7,
+          "endColumn": 13,
+          "endLineNumber": 85,
+          "word": "",
+          "x": 622.1875,
+          "y": 971.3906127929687,
+          "hide": false,
+          "height": 19,
+          "width": 46
+        },
+        "id": "6e94025a-e86e-4d5d-9cce-5226554e69f7"
+      },
+      {
+        "startWord": {
+          "uri": "/d:/AIAssistant/app.py",
+          "lineNumber": 28,
+          "startColumn": 11,
+          "endColumn": 15,
+          "word": "lark",
+          "x": 669.1875,
+          "y": 312.390625,
+          "hide": false,
+          "height": 19,
+          "width": 31
+        },
+        "endWord": {
+          "uri": "/d:/AIAssistant/venv/lib/site-packages/lark_oapi/__init__.py",
+          "lineNumber": 1,
+          "startColumn": 1,
+          "endColumn": 10,
+          "endLineNumber": 1,
+          "word": "",
+          "x": 1248.1875976562499,
+          "y": 60,
+          "hide": false,
+          "height": 19,
+          "width": 69
+        },
+        "id": "11250e8b-a57a-4d11-90a7-9dd88e2893cb"
+      }
+    ],
+    "annotations": [],
+    "highlights": []
+  }
+}
